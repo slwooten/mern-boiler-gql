@@ -17,7 +17,6 @@ import Login from './pages/Login';
 import Dashboard from './pages/Dashboard';
 
 /// IMPORT COMPONENTS ///
-import Navbar from './components/Navbar';
 import ProtectRoute from './components/ProtectRoute';
 
 import './App.css';
@@ -47,7 +46,6 @@ function App() {
   return (
     <ApolloProvider client={client}>
       <Router>
-        <Navbar />
         <Routes>
           <Route path='/' element={<Landing />} />
           <Route path='/signup' element={<Signup />} />

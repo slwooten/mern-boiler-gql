@@ -31,6 +31,18 @@ npm install apollo-server-express bcrypt express graphql jsonwebtoken mongoose
 
 - navigate to server folder, npm start to make sure there are no errors
 
+
+### Root Directory: 
+
+- install concurrently as a dev dependency
+- run: 
+
+```
+npm install apollo-server-express dotenv express graphql
+
+```
+
+
 ### Final Check:
  - in the root directory, run `npm run develop`
  

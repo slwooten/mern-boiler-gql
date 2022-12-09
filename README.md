@@ -1,5 +1,7 @@
 # MERN w/ GraphQL Boilerplate
 
+MERN stack boiler plate with Sign Up / Login functionality using GraphQL, Apollo Server, and Apollo Client.
+
 ## Instructions:
 
 Follow along below to install the latest dependencies, or skip to install the versions included in the current package.json files.

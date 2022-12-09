@@ -4,7 +4,7 @@ MERN stack boiler plate with Sign Up / Login functionality using GraphQL, Apollo
 
 ## Instructions:
 
-Follow along below to install the latest dependencies, or skip to install the versions included in the current package.json files.
+Follow along below to install the latest dependencies, or ``` npm install ``` in the root directory for the versions included in the current package.json files.
 
 ### Client Folder:
 

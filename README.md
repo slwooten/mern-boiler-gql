@@ -2,6 +2,8 @@
 
 ## Instructions:
 
+Follow along below to install the latest dependencies, or skip to install the versions included in the current package.json files.
+
 ### Client Folder:
 
 - delete the package-lock.json

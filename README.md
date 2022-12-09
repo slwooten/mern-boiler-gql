@@ -58,5 +58,5 @@ npm i concurrently -D
 
 ### Video Demonstration:
 
-[Video Link](https://watch.screencastify.com/v/C5vZrOS3Hq7FGSvvaRPB);
+[Video Link](https://watch.screencastify.com/v/C5vZrOS3Hq7FGSvvaRPB)
  

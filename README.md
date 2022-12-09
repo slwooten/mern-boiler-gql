@@ -55,4 +55,8 @@ npm i concurrently -D
 
 ### Final Check:
  - in the root directory, run `npm run develop`
+
+### Video Demonstration:
+
+[Video Link](https://watch.screencastify.com/v/C5vZrOS3Hq7FGSvvaRPB);
  

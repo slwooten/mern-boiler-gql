@@ -51,6 +51,7 @@ npm i concurrently -D
 - you'll eventually want to change the favicon.ico in the client/public folder (this is the icon shown on the tab of the browser)
 - you'll want to change the title in the client/public/index.html from "MERN" to the name of your application
 - you'll also want to change the "name" in the root package.json from "mern-boiler" to the name of your application
+- if you are having issues access the Apollo Sandbox, inside server/server.js line 25, remove the "*" after the "/" - from ``` app.get('/*') ``` to ``` app.get('/') ```
 
 
 ### Final Check:
